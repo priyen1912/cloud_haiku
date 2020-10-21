@@ -60,12 +60,12 @@ Across the network  <br>
 
 Above, we see that the haiku is composed of 3 lines.
 
-The first line is 5 syllables long, the second line is 7 syllables long, and the third line is 5 syllables long.
+The first line is 5 syllables long, the second line is 7 syllables long, and the third line is 8 syllables long.
 
 ```
 Dis-trib-ut-ed cloud  # 5 syllables  
 Like the oc-to-pus-es' minds  # 7 syllables  
-A-cross the net-work  # 5 syllables  
+A-cross the net-work of the area  # 8 syllables  
 ```
 
 In order to verify that you're using the right number of syllables, you can use a tool such as [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
